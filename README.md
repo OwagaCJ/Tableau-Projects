@@ -20,8 +20,7 @@ that are performing well so they can keep a clear focus on what’s working. The
 to view the metrics based on the demographic information that is available in the data.
 
 ## Questions to be answered
-### 1. What is the monthly trend of revenue, which months have faced the biggest
-increase/decrease?
+### 1. What is the monthly trend of revenue, which months have faced the biggest increase/decrease?
 
 The management requested a trend of the revenue to see if there is any seasonality in the store
 sales. My analysis shows that there are some months of the year when exceptional growth is
